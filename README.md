@@ -19,4 +19,4 @@ El codigo se encuentra en el archivo `Tesis.ipynb`, la carpeta `datasetFace/` se
 <img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado5.png" alt="Ejemplo de generación">
 </p>
 
-#Universidad Nacional de San Agustin, Arequipa, Perú.
+# Universidad Nacional de San Agustin, Arequipa, Perú.
