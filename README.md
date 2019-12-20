@@ -13,5 +13,8 @@ El codigo se encuentra en el archivo `Tesis.ipynb`, la carpeta `datasetFace/` se
 ## Ejemplos
 
 <p align="center">
-<img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado47.png" alt="Ejemplo de generacion">
+<img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado47.png" alt="Ejemplo de generación">
+<img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado3.png" alt="Ejemplo de generación">
+<img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado4.png" alt="Ejemplo de generación">
+<img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado5.png" alt="Ejemplo de generación">
 </p>
