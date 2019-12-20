@@ -19,4 +19,11 @@ El codigo se encuentra en el archivo `Tesis.ipynb`, la carpeta `datasetFace/` se
 <img src="https://github.com/luis201420/SeminarioTesis/blob/master/resultado5.png" alt="Ejemplo de generación">
 </p>
 
+## Resultados
+
+Los valores de perdida de la red GAN fueron los siguientes:
+<p align="center">
+<img src="https://github.com/luis201420/SeminarioTesis/blob/master/result1GAN1.png" alt="Valores de perdida">
+</p>
+
 # Universidad Nacional de San Agustin, Arequipa, Perú.
