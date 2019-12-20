@@ -1,6 +1,6 @@
 # Generación de rostros humanos a partir de texto descriptivo usando redes adversarias generativas 
 
-Proyecto de fin de curso. Pruebas de una red adversaria generativa para la generación de rostros. Se hizo uso de la plataforma GoogleColab para el desarrollo del proyecto.
+Proyecto de fin de curso. Pruebas de una red adversaria generativa (GAN) para la generación de rostros. Se hizo uso de la plataforma GoogleColab para el desarrollo del proyecto. El codigo se encuentra disponible en el archivo `Tesis.ipynb`.
 
 ## Base de datos
 Se uso la base de datos de [LWF](http://vis-www.cs.umass.edu/lfw/) junto con las anotaciones del proyecto [Face2Text](https://arxiv.org/abs/1803.03827) las cuales contiene información de 400 rostros.
